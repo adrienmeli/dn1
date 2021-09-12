@@ -298,11 +298,3 @@ aller au travail & to commute\\
     - Very good
 
 
-
-## References
-
-
-
-NULL
-
-
