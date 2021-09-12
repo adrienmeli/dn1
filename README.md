@@ -1,2 +1,3 @@
-# dn1
-DNMADE Year 1 course
+# DN1
+
+Classes for Estienne's DNMADE Year 1
