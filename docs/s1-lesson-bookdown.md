@@ -55,6 +55,9 @@ Niveau visé : **B2**
 
 
 
+## Translation
+
+
 \begin{longtable}{>{\raggedright\arraybackslash}p{8cm}>{\raggedright\arraybackslash}p{8cm}}
 \toprule
 Français & English\\
