@@ -87,16 +87,8 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{23/03/2021} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{-178 days}\\
-06/09/2021 & Dans un premier temps il s'agit de rendre un mémoire hyper précis sur ce que l'on aimerait rechercher. & -11 days\\
-\cellcolor{gray!6}{15/09/2021} & \cellcolor{gray!6}{Il faut y aller!} & \cellcolor{gray!6}{-2 days}\\
-17/09/2021 & Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées. & 0 days\\
-\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{6 days}\\
-\addlinespace
-23/10/2021 & talk to me & 36 days\\
-\cellcolor{gray!6}{22/11/2021} & \cellcolor{gray!6}{cancel request} & \cellcolor{gray!6}{66 days}\\
-23/02/2022 & Se dépêcher & 159 days\\
-\cellcolor{gray!6}{23/03/2022} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{187 days}\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 days}\\
+23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 6 days\\
 \bottomrule
 \end{longtable}
 
