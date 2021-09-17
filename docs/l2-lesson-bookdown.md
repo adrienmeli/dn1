@@ -19,6 +19,13 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \bottomrule
 \end{longtable}
 
+\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\toprule
+Échéances & Description & Jours restants\\
+\midrule
+\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{6 days}\\
+\bottomrule
+\end{longtable}
 
 
  

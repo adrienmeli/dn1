@@ -11,19 +11,19 @@
 \toprule
 Français & English\\
 \midrule
+\cellcolor{gray!6}{le confinement} & \cellcolor{gray!6}{the lockdown}\\
+un ordinateur portable & a laptop\\
+\cellcolor{gray!6}{14 sur 20} & \cellcolor{gray!6}{14 out of 20}\\
+s’attendre à qqch & to expect stg\\
+\cellcolor{gray!6}{des résultats mitigés} & \cellcolor{gray!6}{mixed results}\\
+\addlinespace
+l’opinion majoritaire & the majority opinion\\
+\cellcolor{gray!6}{tranché, clair} & \cellcolor{gray!6}{clear-cut}\\
+appartenir à & to belong to\\
+\cellcolor{gray!6}{la plupart} & \cellcolor{gray!6}{most}\\
+un tiers & a third\\
+\addlinespace
 \cellcolor{gray!6}{un échantillon} & \cellcolor{gray!6}{a sample}\\
-le confinement & the lockdown\\
-\cellcolor{gray!6}{un ordinateur portable} & \cellcolor{gray!6}{a laptop}\\
-14 sur 20 & 14 out of 20\\
-\cellcolor{gray!6}{s’attendre à qqch} & \cellcolor{gray!6}{to expect stg}\\
-\addlinespace
-des résultats mitigés & mixed results\\
-\cellcolor{gray!6}{l’opinion majoritaire} & \cellcolor{gray!6}{the majority opinion}\\
-tranché, clair & clear-cut\\
-\cellcolor{gray!6}{appartenir à} & \cellcolor{gray!6}{to belong to}\\
-la plupart & most\\
-\addlinespace
-\cellcolor{gray!6}{un tiers} & \cellcolor{gray!6}{a third}\\
 aller au travail & to commute\\
 \cellcolor{gray!6}{un logiciel} & \cellcolor{gray!6}{a software}\\
 être habitué à & to be used to -ING\\
@@ -87,8 +87,16 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
-23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 518400 secs\\
+\cellcolor{gray!6}{23/03/2021} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{-178 days}\\
+06/09/2021 & Dans un premier temps il s'agit de rendre un mémoire hyper précis sur ce que l'on aimerait rechercher. & -11 days\\
+\cellcolor{gray!6}{15/09/2021} & \cellcolor{gray!6}{Il faut y aller!} & \cellcolor{gray!6}{-2 days}\\
+17/09/2021 & Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées. & 0 days\\
+\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{6 days}\\
+\addlinespace
+23/10/2021 & talk to me & 36 days\\
+\cellcolor{gray!6}{22/11/2021} & \cellcolor{gray!6}{cancel request} & \cellcolor{gray!6}{66 days}\\
+23/02/2022 & Se dépêcher & 159 days\\
+\cellcolor{gray!6}{23/03/2022} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{187 days}\\
 \bottomrule
 \end{longtable}
 
