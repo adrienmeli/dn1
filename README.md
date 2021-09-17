@@ -1,3 +1,3 @@
-# DN1
+# dn3
 
-Classes for Estienne's DNMADE Year 1
+Classes for Estienne's DNMADE Year 3 students
