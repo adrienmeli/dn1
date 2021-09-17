@@ -13,7 +13,7 @@
 Français & English\\
 \midrule
 \cellcolor{gray!6}{Bien que l'enseignement à distance ait des défauts, c'est toujours mieux que rien.} & \cellcolor{gray!6}{Although online teaching has drawbacks, it is still better than nothing.}\\
-Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New dsektops are being installed.\\
+Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New desktops are being installed.\\
 \cellcolor{gray!6}{De nombreux ordinateurs portables ont été donnés aux écoles pour améliorer l'enseignement.} & \cellcolor{gray!6}{Schools have been given a lot of laptops to improve teaching.}\\
 On peut cependant se demander dans quelle mesure cette initiative a été efficace. & However, one can wonder how efficient this initiative has been.\\
 \bottomrule

@@ -72,7 +72,7 @@ Combien de temps cela te prend-il pour aller à l'École Estienne ? & How long d
 Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année dernière ? & Have you already been to the MBC which opened last year?\\
 \cellcolor{gray!6}{Bien que l'enseignement à distance ait des défauts, c'est toujours mieux que rien.} & \cellcolor{gray!6}{Although online teaching has drawbacks, it is still better than nothing.}\\
 \addlinespace
-Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New dsektops are being installed.\\
+Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New desktops are being installed.\\
 \cellcolor{gray!6}{De nombreux ordinateurs portables ont été donnés aux écoles pour améliorer l'enseignement.} & \cellcolor{gray!6}{Schools have been given a lot of laptops to improve teaching.}\\
 On peut cependant se demander dans quelle mesure cette initiative a été efficace. & However, one can wonder how efficient this initiative has been.\\
 \bottomrule
@@ -91,8 +91,16 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
-23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 518400 secs\\
+\cellcolor{gray!6}{23/03/2021} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{-15379200 secs}\\
+06/09/2021 & Dans un premier temps il s'agit de rendre un mémoire hyper précis sur ce que l'on aimerait rechercher. & -950400 secs\\
+\cellcolor{gray!6}{15/09/2021} & \cellcolor{gray!6}{Il faut y aller!} & \cellcolor{gray!6}{-172800 secs}\\
+17/09/2021 & Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées. & 0 secs\\
+\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{518400 secs}\\
+\addlinespace
+23/10/2021 & talk to me & 3110400 secs\\
+\cellcolor{gray!6}{22/11/2021} & \cellcolor{gray!6}{cancel request} & \cellcolor{gray!6}{5702400 secs}\\
+23/02/2022 & Se dépêcher & 13737600 secs\\
+\cellcolor{gray!6}{23/03/2022} & \cellcolor{gray!6}{Rendre les travaux} & \cellcolor{gray!6}{16156800 secs}\\
 \bottomrule
 \end{longtable}
 
