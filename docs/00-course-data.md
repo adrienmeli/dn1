@@ -91,9 +91,8 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d’année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
-17/09/2021 & Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées. & 0 secs\\
-\cellcolor{gray!6}{23/09/2021} & \cellcolor{gray!6}{Prepare a reaction to the article “A dark consensus“} & \cellcolor{gray!6}{518400 secs}\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 secs}\\
+23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 518400 secs\\
 \bottomrule
 \end{longtable}
 
