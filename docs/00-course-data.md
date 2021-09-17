@@ -83,10 +83,6 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 ##  Échéances 
 
 
-
-# Échéances
-
-
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
 \toprule
 Échéances & Description & Jours restants\\
