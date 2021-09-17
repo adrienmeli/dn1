@@ -1,5 +1,5 @@
 --- 
-title: "DNMADE Year 3 Lessons"
+title: "DNMADE Year 1 Lessons"
 subtitle: "École Estienne"
 author: "Adrien Méli"
 date: "September 17, 2021"
