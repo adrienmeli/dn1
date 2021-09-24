@@ -54,6 +54,26 @@ en dépit de (d...) & despite\\
 \cellcolor{gray!6}{en dépit de (i...)} & \cellcolor{gray!6}{in spite of}\\
 \addlinespace
 un PDG & a CEO\\
+\cellcolor{gray!6}{au lieu de} & \cellcolor{gray!6}{instead of}\\
+concret & hands-on\\
+\cellcolor{gray!6}{mettre à jour} & \cellcolor{gray!6}{update}\\
+désintoxication numérique & digital detox\\
+\addlinespace
+\cellcolor{gray!6}{un manuel scolaire} & \cellcolor{gray!6}{a textbook}\\
+un voyage scolaire & a field trip\\
+\cellcolor{gray!6}{des aiguilles à tricoter} & \cellcolor{gray!6}{knitting needles}\\
+de la boue & mud\\
+\cellcolor{gray!6}{désapprouver qqch} & \cellcolor{gray!6}{to frown on stg}\\
+\addlinespace
+s'empresser & to rush\\
+\cellcolor{gray!6}{fournir qqch à qqn} & \cellcolor{gray!6}{to supply sb with stg}\\
+se concentrer sur & to focus on\\
+\cellcolor{gray!6}{aller à l'encontre d'une tendance} & \cellcolor{gray!6}{to buck a trend}\\
+cautionner & to endorse\\
+\addlinespace
+\cellcolor{gray!6}{capacité d'attention} & \cellcolor{gray!6}{attention span}\\
+un fief & a foothold\\
+\cellcolor{gray!6}{un diplôme} & \cellcolor{gray!6}{a degree}\\
 \bottomrule
 \end{longtable}
 
@@ -75,6 +95,11 @@ Es-tu déjà allé(e) au Musée de la Bourse de Commerce qui a ouvert l'année d
 Regarde ! Ils sont en train d'installer de nouveaux ordinateurs de bureau. & Look! New desktops are being installed.\\
 \cellcolor{gray!6}{De nombreux ordinateurs portables ont été donnés aux écoles pour améliorer l'enseignement.} & \cellcolor{gray!6}{Schools have been given a lot of laptops to improve teaching.}\\
 On peut cependant se demander dans quelle mesure cette initiative a été efficace. & However, one can wonder how efficient this initiative has been.\\
+\cellcolor{gray!6}{Avec qui as-tu travaillé hier?} & \cellcolor{gray!6}{Who did you work with yesterday?}\\
+Quelle question de sondage as-tu posée la semaine dernière ? & Which poll question did you  ask last week?\\
+\addlinespace
+\cellcolor{gray!6}{À qui écris-tu un message ?} & \cellcolor{gray!6}{Who are you writing a message to?}\\
+Que devez-vous écouter pour cette leçon ? & What must you listen to for this lesson?\\
 \bottomrule
 \end{longtable}
 
@@ -87,8 +112,8 @@ On peut cependant se demander dans quelle mesure cette initiative a été effica
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{0 days}\\
-23/09/2021 & Prepare a reaction to the article “A dark consensus“ & 6 days\\
+\cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.} & \cellcolor{gray!6}{-7 days}\\
+23/09/2021 & Prepare a reaction to the article “A dark consensus“ & -1 days\\
 \bottomrule
 \end{longtable}
 
