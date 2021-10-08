@@ -210,25 +210,3 @@ Watch the  second part of the video and answer the following questions:
 * Where are they located?
 * Are the Californian students allowed to use new technologies?
 * What is the brown-haired teacher's opinion on regular textbooks and digital textbooks?
-
----
-
-## Oral Expression
-
-### Topics
-
-Answer one the following questions:
-
-* Are you in favour of not teaching handwriting at school? Why?
-* Do you think students should learn how to type at school?
-* Do you think banning computers is a good idea?
-
----
-
-### Method
-
-When explaining your point of view, try to organize your arguments:
-
-* First, what you are against.
-* Second, what you are in favour of.
-* Use link words (*c.f.* your handout).

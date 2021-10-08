@@ -24,7 +24,7 @@
 <meta name="author" content="Adrien Méli" />
 
 
-<meta name="date" content="2021-09-24" />
+<meta name="date" content="2021-10-08" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -102,7 +102,9 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="1.1" data-path="bases-de-données.html"><a href="bases-de-données.html#vocabulaire"><i class="fa fa-check"></i><b>1.1</b> Vocabulaire</a></li>
 <li class="chapter" data-level="1.2" data-path="bases-de-données.html"><a href="bases-de-données.html#traductions"><i class="fa fa-check"></i><b>1.2</b> Traductions</a></li>
-<li class="chapter" data-level="1.3" data-path="bases-de-données.html"><a href="bases-de-données.html#échéances"><i class="fa fa-check"></i><b>1.3</b> Échéances</a></li>
+<li class="chapter" data-level="1.3" data-path="bases-de-données.html"><a href="bases-de-données.html#prononciation"><i class="fa fa-check"></i><b>1.3</b> Prononciation</a></li>
+<li class="chapter" data-level="1.4" data-path="bases-de-données.html"><a href="bases-de-données.html#échéances"><i class="fa fa-check"></i><b>1.4</b> Échéances</a></li>
+<li class="chapter" data-level="1.5" data-path="bases-de-données.html"><a href="bases-de-données.html#flashcards"><i class="fa fa-check"></i><b>1.5</b> Flashcards</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="lesson-n1.html"><a href="lesson-n1.html"><i class="fa fa-check"></i><b>2</b> Lesson n°1</a>
 <ul>
@@ -139,14 +141,24 @@ div.csl-indent {
 <li class="chapter" data-level="4.4.1" data-path="lesson-n3.html"><a href="lesson-n3.html#part-i"><i class="fa fa-check"></i><b>4.4.1</b> Part I</a></li>
 <li class="chapter" data-level="4.4.2" data-path="lesson-n3.html"><a href="lesson-n3.html#part-ii"><i class="fa fa-check"></i><b>4.4.2</b> Part II</a></li>
 </ul></li>
-<li class="chapter" data-level="4.5" data-path="lesson-n3.html"><a href="lesson-n3.html#oral-expression"><i class="fa fa-check"></i><b>4.5</b> Oral Expression</a>
+</ul></li>
+<li class="chapter" data-level="5" data-path="lesson-n4.html"><a href="lesson-n4.html"><i class="fa fa-check"></i><b>5</b> Lesson n°4</a>
 <ul>
-<li class="chapter" data-level="4.5.1" data-path="lesson-n3.html"><a href="lesson-n3.html#topics"><i class="fa fa-check"></i><b>4.5.1</b> Topics</a></li>
-<li class="chapter" data-level="4.5.2" data-path="lesson-n3.html"><a href="lesson-n3.html#method"><i class="fa fa-check"></i><b>4.5.2</b> Method</a></li>
+<li class="chapter" data-level="5.1" data-path="lesson-n4.html"><a href="lesson-n4.html#translation-4"><i class="fa fa-check"></i><b>5.1</b> Translation</a></li>
+<li class="chapter" data-level="5.2" data-path="lesson-n4.html"><a href="lesson-n4.html#oral-expression"><i class="fa fa-check"></i><b>5.2</b> Oral Expression</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="lesson-n4.html"><a href="lesson-n4.html#topics"><i class="fa fa-check"></i><b>5.2.1</b> Topics</a></li>
+<li class="chapter" data-level="5.2.2" data-path="lesson-n4.html"><a href="lesson-n4.html#method"><i class="fa fa-check"></i><b>5.2.2</b> Method</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="5" data-path="suivi.html"><a href="suivi.html"><i class="fa fa-check"></i><b>5</b> Suivi</a></li>
-<li class="chapter" data-level="6" data-path="références.html"><a href="références.html"><i class="fa fa-check"></i><b>6</b> Références</a></li>
+<li class="chapter" data-level="6" data-path="lesson-n5.html"><a href="lesson-n5.html"><i class="fa fa-check"></i><b>6</b> Lesson n°5</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="lesson-n5.html"><a href="lesson-n5.html#translation-5"><i class="fa fa-check"></i><b>6.1</b> Translation</a></li>
+<li class="chapter" data-level="6.2" data-path="lesson-n5.html"><a href="lesson-n5.html#identifiants"><i class="fa fa-check"></i><b>6.2</b> Identifiants</a></li>
+<li class="chapter" data-level="6.3" data-path="lesson-n5.html"><a href="lesson-n5.html#morphology"><i class="fa fa-check"></i><b>6.3</b> Morphology</a></li>
+<li class="chapter" data-level="6.4" data-path="lesson-n5.html"><a href="lesson-n5.html#debates"><i class="fa fa-check"></i><b>6.4</b> Debates</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="références.html"><a href="références.html"><i class="fa fa-check"></i><b>7</b> Références</a></li>
 <li class="divider"></li>
 <li><a href="https://adrienmeli.xyz" target="blank">adrienmeli.xyz</a></li>
 
@@ -233,6 +245,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
