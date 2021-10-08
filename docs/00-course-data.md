@@ -37,7 +37,7 @@ un outil & a tool\\
 \addlinespace
 \cellcolor{gray!6}{un règlement de comptes} & \cellcolor{gray!6}{a reckoning}\\
 une échelle & a scale\\
-\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{beyond}\\
+\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{\vphantom{1} beyond}\\
 interdire & to ban\\
 \cellcolor{gray!6}{un stigmate} & \cellcolor{gray!6}{a stigma}\\
 \addlinespace
@@ -80,12 +80,12 @@ paradoxal & paradoxical\\
 nier & to deny\\
 \cellcolor{gray!6}{parmi} & \cellcolor{gray!6}{among}\\
 obtenir son diplôme & to graduate\\
-\cellcolor{gray!6}{suffisant, arrogant} & \cellcolor{gray!6}{smug}\\
-sagesse & wisdom\\
+\cellcolor{gray!6}{suffisant, arrogant} & \cellcolor{gray!6}{\vphantom{1} smug}\\
+sagesse & \vphantom{1} wisdom\\
 \addlinespace
 \cellcolor{gray!6}{équivalent à} & \cellcolor{gray!6}{tantamount to}\\
 le mal & evil\\
-\cellcolor{gray!6}{néfaste} & \cellcolor{gray!6}{harmful}\\
+\cellcolor{gray!6}{néfaste} & \cellcolor{gray!6}{\vphantom{1} harmful}\\
 une moyenne & an average\\
 \cellcolor{gray!6}{enlever} & \cellcolor{gray!6}{to remove}\\
 \addlinespace
@@ -98,43 +98,43 @@ prendre parti & to take sides\\
 \cellcolor{gray!6}{promouvoir} & \cellcolor{gray!6}{to advertise}\\
 selon & according to\\
 \cellcolor{gray!6}{un domaine} & \cellcolor{gray!6}{a field}\\
-(1) stable & steady\\
-\cellcolor{gray!6}{(1) fuir, éviter} & \cellcolor{gray!6}{to shun}\\
+stable & steady\\
+\cellcolor{gray!6}{fuir, éviter} & \cellcolor{gray!6}{to shun}\\
 \addlinespace
-(1) couverture médiatique & coverage\\
-\cellcolor{gray!6}{(1) infortuné} & \cellcolor{gray!6}{hapless}\\
-(1) suffisant, arrogant & smug\\
-\cellcolor{gray!6}{(2) supposer} & \cellcolor{gray!6}{to assume}\\
-(2) sagesse & wisdom\\
+couverture médiatique & coverage\\
+\cellcolor{gray!6}{infortuné} & \cellcolor{gray!6}{hapless}\\
+suffisant, arrogant & smug\\
+\cellcolor{gray!6}{supposer} & \cellcolor{gray!6}{to assume}\\
+sagesse & wisdom\\
 \addlinespace
-\cellcolor{gray!6}{(2) néfaste} & \cellcolor{gray!6}{harmful}\\
-(2) affirmer & to assert\\
-\cellcolor{gray!6}{(3) très éloigné de} & \cellcolor{gray!6}{a far cry from}\\
-(4) un exemple pertinent & a case in point\\
-\cellcolor{gray!6}{(4) surveiller} & \cellcolor{gray!6}{to monitor}\\
+\cellcolor{gray!6}{néfaste} & \cellcolor{gray!6}{harmful}\\
+affirmer & to assert\\
+\cellcolor{gray!6}{très éloigné de} & \cellcolor{gray!6}{a far cry from}\\
+un exemple pertinent & a case in point\\
+\cellcolor{gray!6}{surveiller} & \cellcolor{gray!6}{to monitor}\\
 \addlinespace
-(4) façonner & to craft\\
-\cellcolor{gray!6}{(4) engendrer} & \cellcolor{gray!6}{to spawn}\\
-(4) confier & to vouchsafe\\
-\cellcolor{gray!6}{(4) l'aube} & \cellcolor{gray!6}{dawn}\\
-(5) citer & to quote\\
+façonner & to craft\\
+\cellcolor{gray!6}{engendrer} & \cellcolor{gray!6}{to spawn}\\
+confier & to vouchsafe\\
+\cellcolor{gray!6}{l'aube} & \cellcolor{gray!6}{dawn}\\
+citer & to quote\\
 \addlinespace
-\cellcolor{gray!6}{(5) cohérent} & \cellcolor{gray!6}{consistent}\\
-(6) étendu & wide-ranging\\
-\cellcolor{gray!6}{(7) plus loin} & \cellcolor{gray!6}{further}\\
-(7) un taux & a rate\\
-\cellcolor{gray!6}{(7) confirmer,soutenir} & \cellcolor{gray!6}{to uphold}\\
+\cellcolor{gray!6}{cohérent} & \cellcolor{gray!6}{consistent}\\
+étendu & wide-ranging\\
+\cellcolor{gray!6}{plus loin} & \cellcolor{gray!6}{further}\\
+un taux & a rate\\
+\cellcolor{gray!6}{confirmer,soutenir} & \cellcolor{gray!6}{to uphold}\\
 \addlinespace
-(7) infondé & unfounded\\
-\cellcolor{gray!6}{(8) un conseil} & \cellcolor{gray!6}{advice}\\
-(8) vaincre & to overcome\\
-\cellcolor{gray!6}{(8) au-delà} & \cellcolor{gray!6}{beyond}\\
-(9) enhardir & to embolden\\
+infondé & unfounded\\
+\cellcolor{gray!6}{un conseil} & \cellcolor{gray!6}{advice}\\
+vaincre & to overcome\\
+\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{beyond}\\
+enhardir & to embolden\\
 \addlinespace
-\cellcolor{gray!6}{(9) des preuves} & \cellcolor{gray!6}{evidence}\\
-(9) aplatir & to flatten\\
-\cellcolor{gray!6}{(9) renforcer} & \cellcolor{gray!6}{to buttress}\\
-(9) gagner de l'argent & to earn\\
+\cellcolor{gray!6}{des preuves} & \cellcolor{gray!6}{evidence}\\
+aplatir & to flatten\\
+\cellcolor{gray!6}{renforcer} & \cellcolor{gray!6}{to buttress}\\
+gagner de l'argent & to earn\\
 \bottomrule
 \end{longtable}
 
