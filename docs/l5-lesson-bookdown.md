@@ -18,13 +18,8 @@ Les écoles du centre de l’Amérique ont peut-être réduit leur utilisation d
 \bottomrule
 \end{longtable}
 
-## Identifiants
 
-* prenom.nom (ni accents ni majuscules)
 
-* mdp: Estienne2021
-
----
 
 ## Morphology
 
