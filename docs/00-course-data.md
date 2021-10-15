@@ -81,7 +81,7 @@ nier & to deny\\
 \cellcolor{gray!6}{parmi} & \cellcolor{gray!6}{among}\\
 obtenir son diplôme & to graduate\\
 \cellcolor{gray!6}{suffisant, arrogant} & \cellcolor{gray!6}{\vphantom{1} smug}\\
-sagesse & \vphantom{1} wisdom\\
+la \cellcolor{gray!6}{sagesse} & \cellcolor{gray!6}{\vphantom{1} wisdom}\\
 \addlinespace
 \cellcolor{gray!6}{équivalent à} & \cellcolor{gray!6}{tantamount to}\\
 le mal & evil\\
@@ -98,43 +98,104 @@ prendre parti & to take sides\\
 \cellcolor{gray!6}{promouvoir} & \cellcolor{gray!6}{to advertise}\\
 selon & according to\\
 \cellcolor{gray!6}{un domaine} & \cellcolor{gray!6}{a field}\\
-stable & steady\\
-\cellcolor{gray!6}{fuir, éviter} & \cellcolor{gray!6}{to shun}\\
+stable & \vphantom{1} steady\\
+\cellcolor{gray!6}{fuir, éviter} & \cellcolor{gray!6}{to \vphantom{1} shun}\\
 \addlinespace
-couverture médiatique & coverage\\
-\cellcolor{gray!6}{infortuné} & \cellcolor{gray!6}{hapless}\\
-suffisant, arrogant & smug\\
-\cellcolor{gray!6}{supposer} & \cellcolor{gray!6}{to assume}\\
+couverture médiatique & \vphantom{1} coverage\\
+\cellcolor{gray!6}{infortuné} & \cellcolor{gray!6}{\vphantom{1} hapless}\\
+supposer & to \vphantom{1} assume\\
+\cellcolor{gray!6}{sagesse} & \cellcolor{gray!6}{wisdom}\\
+affirmer & to \vphantom{1} assert\\
+\addlinespace
+\cellcolor{gray!6}{très éloigné de} & \cellcolor{gray!6}{a far cry \vphantom{1} from}\\
+un exemple pertinent & a case in \vphantom{1} point\\
+\cellcolor{gray!6}{surveiller} & \cellcolor{gray!6}{to \vphantom{1} monitor}\\
+façonner & to \vphantom{1} craft\\
+\cellcolor{gray!6}{engendrer} & \cellcolor{gray!6}{to \vphantom{1} spawn}\\
+\addlinespace
+confier & to \vphantom{1} vouchsafe\\
+\cellcolor{gray!6}{l'aube} & \cellcolor{gray!6}{\vphantom{1} dawn}\\
+citer & to \vphantom{1} quote\\
+\cellcolor{gray!6}{cohérent} & \cellcolor{gray!6}{\vphantom{1} consistent}\\
+étendu & \vphantom{1} wide-ranging\\
+\addlinespace
+\cellcolor{gray!6}{plus loin} & \cellcolor{gray!6}{\vphantom{1} further}\\
+un taux & a \vphantom{1} rate\\
+\cellcolor{gray!6}{confirmer,soutenir} & \cellcolor{gray!6}{to \vphantom{1} uphold}\\
+infondé & \vphantom{1} unfounded\\
+\cellcolor{gray!6}{un conseil} & \cellcolor{gray!6}{\vphantom{1} advice}\\
+\addlinespace
+vaincre & to \vphantom{1} overcome\\
+\cellcolor{gray!6}{enhardir} & \cellcolor{gray!6}{to \vphantom{1} embolden}\\
+des preuves & \vphantom{1} evidence\\
+\cellcolor{gray!6}{aplatir} & \cellcolor{gray!6}{to \vphantom{1} flatten}\\
+renforcer & to \vphantom{1} buttress\\
+\addlinespace
+\cellcolor{gray!6}{gagner de l'argent} & \cellcolor{gray!6}{to \vphantom{1} earn}\\
+sans honte & shameless\\
+\cellcolor{gray!6}{traiter de} & \cellcolor{gray!6}{to deal with}\\
+une entreprise & a company\\
+\cellcolor{gray!6}{du matériel} & \cellcolor{gray!6}{hardware}\\
+\addlinespace
+quelque peu & somewhat\\
+\cellcolor{gray!6}{s’abstenir de} & \cellcolor{gray!6}{to refrain from}\\
+par conséquent & therefore\\
+\cellcolor{gray!6}{une tendance} & \cellcolor{gray!6}{a trend}\\
+mettre en lumière & to shed light on\\
+\addlinespace
+\cellcolor{gray!6}{un fer-de-lance} & \cellcolor{gray!6}{a spearhead}\\
+compter sur & to rely on\\
+\cellcolor{gray!6}{émerger} & \cellcolor{gray!6}{to arise}\\
+un équilibre & a balance\\
+\cellcolor{gray!6}{étendu} & \cellcolor{gray!6}{wide}\\
+\addlinespace
+équipement pour la maison & houseware\\
+\cellcolor{gray!6}{disponible} & \cellcolor{gray!6}{available}\\
+assister à & to attend\\
+\cellcolor{gray!6}{partager} & \cellcolor{gray!6}{to share}\\
+une gamme de produits & a range\\
+\addlinespace
+\cellcolor{gray!6}{rendre possible} & \cellcolor{gray!6}{to allow for}\\
+le prix & pricing\\
+\cellcolor{gray!6}{acheter} & \cellcolor{gray!6}{to purchase}\\
+un chevalier & a knight\\
+\cellcolor{gray!6}{stable} & \cellcolor{gray!6}{steady}\\
+\addlinespace
+fuir, éviter & to shun\\
+\cellcolor{gray!6}{couverture médiatique} & \cellcolor{gray!6}{coverage}\\
+infortuné & hapless\\
+\cellcolor{gray!6}{suffisant, arrogant} & \cellcolor{gray!6}{smug}\\
+supposer & to assume\\
+\addlinespace
 sagesse & wisdom\\
+néfaste & harmful\\
+\cellcolor{gray!6}{affirmer} & \cellcolor{gray!6}{to assert}\\
+très éloigné de & a far cry from\\
+\cellcolor{gray!6}{un exemple pertinent} & \cellcolor{gray!6}{a case in point}\\
 \addlinespace
-\cellcolor{gray!6}{néfaste} & \cellcolor{gray!6}{harmful}\\
-affirmer & to assert\\
-\cellcolor{gray!6}{très éloigné de} & \cellcolor{gray!6}{a far cry from}\\
-un exemple pertinent & a case in point\\
-\cellcolor{gray!6}{surveiller} & \cellcolor{gray!6}{to monitor}\\
+surveiller & to monitor\\
+\cellcolor{gray!6}{façonner} & \cellcolor{gray!6}{to craft}\\
+engendrer & to spawn\\
+\cellcolor{gray!6}{confier} & \cellcolor{gray!6}{to vouchsafe}\\
+l'aube & dawn\\
 \addlinespace
-façonner & to craft\\
-\cellcolor{gray!6}{engendrer} & \cellcolor{gray!6}{to spawn}\\
-confier & to vouchsafe\\
-\cellcolor{gray!6}{l'aube} & \cellcolor{gray!6}{dawn}\\
-citer & to quote\\
+\cellcolor{gray!6}{citer} & \cellcolor{gray!6}{to quote}\\
+cohérent & consistent\\
+\cellcolor{gray!6}{étendu} & \cellcolor{gray!6}{wide-ranging}\\
+plus loin & further\\
+\cellcolor{gray!6}{un taux} & \cellcolor{gray!6}{a rate}\\
 \addlinespace
-\cellcolor{gray!6}{cohérent} & \cellcolor{gray!6}{consistent}\\
-étendu & wide-ranging\\
-\cellcolor{gray!6}{plus loin} & \cellcolor{gray!6}{further}\\
-un taux & a rate\\
-\cellcolor{gray!6}{confirmer,soutenir} & \cellcolor{gray!6}{to uphold}\\
+confirmer,soutenir & to uphold\\
+\cellcolor{gray!6}{infondé} & \cellcolor{gray!6}{unfounded}\\
+un conseil & advice\\
+\cellcolor{gray!6}{vaincre} & \cellcolor{gray!6}{to overcome}\\
+au-delà & beyond\\
 \addlinespace
-infondé & unfounded\\
-\cellcolor{gray!6}{un conseil} & \cellcolor{gray!6}{advice}\\
-vaincre & to overcome\\
-\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{beyond}\\
-enhardir & to embolden\\
-\addlinespace
-\cellcolor{gray!6}{des preuves} & \cellcolor{gray!6}{evidence}\\
-aplatir & to flatten\\
-\cellcolor{gray!6}{renforcer} & \cellcolor{gray!6}{to buttress}\\
-gagner de l'argent & to earn\\
+\cellcolor{gray!6}{enhardir} & \cellcolor{gray!6}{to embolden}\\
+des preuves & evidence\\
+\cellcolor{gray!6}{aplatir} & \cellcolor{gray!6}{to flatten}\\
+renforcer & to buttress\\
+\cellcolor{gray!6}{gagner de l'argent} & \cellcolor{gray!6}{to earn}\\
 \bottomrule
 \end{longtable}
 
@@ -170,6 +231,11 @@ Si je prends en compte tous ces arguments, je suis forcé de prendre parti... & 
 On peut se demander si tout cela n’est pas un peu exagéré. & It can be wondered whether all of this has been somewhat blown out of proportion.\\
 \cellcolor{gray!6}{Pourquoi les ingénieurs seraient-ils compétents en-dehors de leur domaine d’expertise?} & \cellcolor{gray!6}{Why would engineers be competent outside their field of expertise?}\\
 Les écoles du centre de l’Amérique ont peut-être réduit leur utilisation des ordinateurs en cours. & Schools in Middle America may have reduced their use of computers in class.\\
+\addlinespace
+\cellcolor{gray!6}{Si je suis d’accord avec vous sur ce point, je souhaiterais cependant dire la chose suivante.} & \cellcolor{gray!6}{Even though I do agree with you on this point, however I would like to say the following.}\\
+Cet argument ne tient pas debout ! & This argument doesn’t have a leg to stand on!\\
+\cellcolor{gray!6}{Après avoir écouté les arguments de la partie adverse, je dois dire que je suis loin d’être convaincu.} & \cellcolor{gray!6}{After listening to the opposite side’s arguments, I must say I am not even remotely convinced.}\\
+Il est évident que vous mentez de façon éhontée ! & It is obvious you are lying through your teeth!\\
 \bottomrule
 \end{longtable}
 
@@ -205,6 +271,16 @@ wealthy & /10/ & /\textipa{"welT.i}/\\
 remove & /01/ & /\textipa{ri."mu:v}/\\
 \cellcolor{gray!6}{vouchsafe} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{vaUtS."seIf}/}\\
 culture & /10/ & /\textipa{"k2ltS.@}/\\
+\addlinespace
+\cellcolor{gray!6}{hardware} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"hA:d.we@}/}\\
+copy & /10/ & /\textipa{"k6p.i}/\\
+\cellcolor{gray!6}{however} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{haU."ev.@}/}\\
+rely & /01/ & /\textipa{ri."laI}/\\
+\cellcolor{gray!6}{range} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{reIndZ}/}\\
+\addlinespace
+furniture & /100/ & /\textipa{"f3:n.ItS.@}/\\
+\cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
+purchase & /10/ & /\textipa{"p3:tS.@s}/\\
 \bottomrule
 \end{longtable}
 
