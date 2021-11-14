@@ -196,6 +196,18 @@ des preuves & evidence\\
 \cellcolor{gray!6}{aplatir} & \cellcolor{gray!6}{to flatten}\\
 renforcer & to buttress\\
 \cellcolor{gray!6}{gagner de l'argent} & \cellcolor{gray!6}{to earn}\\
+\addlinespace
+un point d'orgue & a highlight\\
+\cellcolor{gray!6}{un faux} & \cellcolor{gray!6}{a fake}\\
+remettre en cause & to call into question\\
+\cellcolor{gray!6}{un spécialiste} & \cellcolor{gray!6}{a scholar}\\
+commander une œuvre d'art & to commission\\
+\addlinespace
+\cellcolor{gray!6}{rendre possible} & \cellcolor{gray!6}{to enable}\\
+un trait de pinceau & a brush stroke\\
+\cellcolor{gray!6}{rendre une décision} & \cellcolor{gray!6}{to rule}\\
+superviser & to oversee\\
+\cellcolor{gray!6}{un petit morceau} & \cellcolor{gray!6}{a patch}\\
 \bottomrule
 \end{longtable}
 
@@ -236,6 +248,17 @@ Les écoles du centre de l’Amérique ont peut-être réduit leur utilisation d
 Cet argument ne tient pas debout ! & This argument doesn’t have a leg to stand on!\\
 \cellcolor{gray!6}{Après avoir écouté les arguments de la partie adverse, je dois dire que je suis loin d’être convaincu.} & \cellcolor{gray!6}{After listening to the opposite side’s arguments, I must say I am not even remotely convinced.}\\
 Il est évident que vous mentez de façon éhontée ! & It is obvious you are lying through your teeth!\\
+\cellcolor{gray!6}{Les tablettes ont été achetées par le gouvernment.} & \cellcolor{gray!6}{The tablets were bought by the government.}\\
+\addlinespace
+On étudie encore l'impact du confinement sur l'enseignement. & The impact of the lockdown on teaching is still being investigated.\\
+\cellcolor{gray!6}{Les enfants devraient être davantage écoutés.} & \cellcolor{gray!6}{Children should be listened to more.}\\
+On pense que les nouvelles technologies sont dangereuses pour les enfants. & New technologies are thought to be dangerous.\\
+\cellcolor{gray!6}{Scientists are carefully analyzing a painting by Rubens.} & \cellcolor{gray!6}{A painting by Rubens is being carefully analyzed.}\\
+They may consider it fake. & It may be considered fake.\\
+\addlinespace
+\cellcolor{gray!6}{The National Gallery had purchased it in 1980.} & \cellcolor{gray!6}{It had been purchased in 1980.}\\
+The curators gave the painting a prominent position in the museum. & The painting was given a prominent position in the museum.\\
+\cellcolor{gray!6}{Experts now think it is less valuable.} & \cellcolor{gray!6}{It is now thought to be less valuable.}\\
 \bottomrule
 \end{longtable}
 
@@ -281,6 +304,17 @@ rely & /01/ & /\textipa{ri."laI}/\\
 furniture & /100/ & /\textipa{"f3:n.ItS.@}/\\
 \cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
 purchase & /10/ & /\textipa{"p3:tS.@s}/\\
+\cellcolor{gray!6}{highlight} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"haI.laIt}/}\\
+commission & /010/ & /\textipa{k@."mIS.@n}/\\
+\addlinespace
+\cellcolor{gray!6}{enable} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{In."eIb.@l}/}\\
+stroke & /1/ & /\textipa{str@Uk}/\\
+\cellcolor{gray!6}{fake} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIk}/}\\
+curator & /010/ & /\textipa{kju@."reIt.@}/\\
+\cellcolor{gray!6}{argue} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"A:g.ju:}/}\\
+\addlinespace
+mayor & /1/ & /\textipa{me@}/\\
+\cellcolor{gray!6}{research} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."s3:tS}/}\\
 \bottomrule
 \end{longtable}
 
@@ -295,6 +329,7 @@ purchase & /10/ & /\textipa{"p3:tS.@s}/\\
 \midrule
 \cellcolor{gray!6}{17/09/2021} & \cellcolor{gray!6}{Préparer le rapport oral du sondage de début d'année, pour les équipes qui ne sont pas passées.}\\
 23/09/2021 & Prepare a reaction to the article “A dark consensus“\\
+\cellcolor{gray!6}{03/12/2021} & \cellcolor{gray!6}{Test 2h : Compréhension écrite / Vocabulaire / Traduction / Expression écrite (un paragraphe structuré de 300 mots)}\\
 \bottomrule
 \end{longtable}
 
