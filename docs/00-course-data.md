@@ -104,7 +104,7 @@ stable & \vphantom{1} steady\\
 couverture médiatique & \vphantom{1} coverage\\
 \cellcolor{gray!6}{infortuné} & \cellcolor{gray!6}{\vphantom{1} hapless}\\
 supposer & to \vphantom{1} assume\\
-\cellcolor{gray!6}{sagesse} & \cellcolor{gray!6}{wisdom}\\
+sagesse & wisdom\\
 affirmer & to \vphantom{1} assert\\
 \addlinespace
 \cellcolor{gray!6}{très éloigné de} & \cellcolor{gray!6}{a far cry \vphantom{1} from}\\
@@ -171,93 +171,108 @@ rendre possible & to enable\\
 rendre une décision & to rule\\
 \cellcolor{gray!6}{superviser} & \cellcolor{gray!6}{to oversee}\\
 un petit morceau & a patch\\
-\cellcolor{gray!6}{stable} & \cellcolor{gray!6}{steady}\\
+\cellcolor{gray!6}{selon, d’après} & \cellcolor{gray!6}{according to}\\
 \addlinespace
-fuir, éviter & to shun\\
-\cellcolor{gray!6}{couverture médiatique} & \cellcolor{gray!6}{coverage}\\
-infortuné & hapless\\
-\cellcolor{gray!6}{suffisant, arrogant} & \cellcolor{gray!6}{smug}\\
-supposer & to assume\\
+exposer (e...) & to exhibit\\
+\cellcolor{gray!6}{être fort probablement} & \cellcolor{gray!6}{to be likely to}\\
+soulever une question & to raise a question\\
+\cellcolor{gray!6}{finir par} & \cellcolor{gray!6}{to end up + ING}\\
+exposer (d...) & to display\\
 \addlinespace
+\cellcolor{gray!6}{une mesure, une étape} & \cellcolor{gray!6}{a step}\\
+à l’égard de & regarding\\
+\cellcolor{gray!6}{jeter un doute sur...} & \cellcolor{gray!6}{to cast a doubt on...}\\
+signaler & to flag\\
+\cellcolor{gray!6}{reconnaître} & \cellcolor{gray!6}{to acknowledge}\\
+\addlinespace
+courageux, hardi & bold\\
+\cellcolor{gray!6}{un artisan} & \cellcolor{gray!6}{a craftsman}\\
+un témoin & a witness\\
+\cellcolor{gray!6}{exact} & \cellcolor{gray!6}{accurate}\\
+un orteil & a toe\\
+\addlinespace
+\cellcolor{gray!6}{un casque} & \cellcolor{gray!6}{a helmet}\\
+regarder fixement & to stare\\
+\cellcolor{gray!6}{mériter} & \cellcolor{gray!6}{to deserve}\\
+contrefaire, falsifier & to forge\\
+\cellcolor{gray!6}{inoffensif} & \cellcolor{gray!6}{innocuous}\\
+\addlinespace
+un mélange & a blend\\
+\cellcolor{gray!6}{divertir, distraire} & \cellcolor{gray!6}{to entertain}\\
+intéressé, cupide & money-grubbing\\
+\cellcolor{gray!6}{riche, aisé} & \cellcolor{gray!6}{wealthy}\\
+une série & a series\\
+\addlinespace
+\cellcolor{gray!6}{dévoiler, révéler} & \cellcolor{gray!6}{to expose}\\
+inattendu & unexpected\\
+\cellcolor{gray!6}{gagner de l'argent} & \cellcolor{gray!6}{to earn money}\\
+duper, abuser & to fool\\
+\cellcolor{gray!6}{une veuve} & \cellcolor{gray!6}{a widow}\\
+\addlinespace
+authentique & genuine\\
+\cellcolor{gray!6}{à la fin, finalement} & \cellcolor{gray!6}{eventually}\\
+une arnaque & a scam\\
+\cellcolor{gray!6}{servir une peine de prison} & \cellcolor{gray!6}{to do the time}\\
+médicolégal & forensic\\
+\addlinespace
+\cellcolor{gray!6}{un marchand d'art} & \cellcolor{gray!6}{an art dealer}\\
+tristement célèbre & infamous\\
+\cellcolor{gray!6}{une vente aux enchères} & \cellcolor{gray!6}{an auction}\\
+reconnu coupable & convicted\\
+\cellcolor{gray!6}{récolter (un profit)} & \cellcolor{gray!6}{to net}\\
+\addlinespace
+stable & steady\\
+\cellcolor{gray!6}{fuir, éviter} & \cellcolor{gray!6}{to shun}\\
+couverture médiatique & coverage\\
+\cellcolor{gray!6}{infortuné} & \cellcolor{gray!6}{hapless}\\
+suffisant, arrogant & smug\\
+\addlinespace
+\cellcolor{gray!6}{supposer} & \cellcolor{gray!6}{to assume}\\
 sagesse & wisdom\\
-néfaste & harmful\\
-\cellcolor{gray!6}{affirmer} & \cellcolor{gray!6}{to assert}\\
-très éloigné de & a far cry from\\
-\cellcolor{gray!6}{un exemple pertinent} & \cellcolor{gray!6}{a case in point}\\
+\cellcolor{gray!6}{néfaste} & \cellcolor{gray!6}{harmful}\\
+affirmer & to assert\\
+\cellcolor{gray!6}{très éloigné de} & \cellcolor{gray!6}{a far cry from}\\
 \addlinespace
-surveiller & to monitor\\
-\cellcolor{gray!6}{façonner} & \cellcolor{gray!6}{to craft}\\
-engendrer & to spawn\\
-\cellcolor{gray!6}{confier} & \cellcolor{gray!6}{to vouchsafe}\\
-l'aube & dawn\\
+un exemple pertinent & a case in point\\
+\cellcolor{gray!6}{surveiller} & \cellcolor{gray!6}{to monitor}\\
+façonner & to craft\\
+\cellcolor{gray!6}{engendrer} & \cellcolor{gray!6}{to spawn}\\
+confier & to vouchsafe\\
 \addlinespace
-\cellcolor{gray!6}{citer} & \cellcolor{gray!6}{to quote}\\
-cohérent & consistent\\
-\cellcolor{gray!6}{étendu} & \cellcolor{gray!6}{wide-ranging}\\
-plus loin & further\\
-\cellcolor{gray!6}{un taux} & \cellcolor{gray!6}{a rate}\\
+\cellcolor{gray!6}{l'aube} & \cellcolor{gray!6}{dawn}\\
+citer & to quote\\
+\cellcolor{gray!6}{cohérent} & \cellcolor{gray!6}{consistent}\\
+étendu & wide-ranging\\
+\cellcolor{gray!6}{plus loin} & \cellcolor{gray!6}{further}\\
 \addlinespace
-confirmer,soutenir & to uphold\\
-\cellcolor{gray!6}{infondé} & \cellcolor{gray!6}{unfounded}\\
-un conseil & advice\\
-\cellcolor{gray!6}{vaincre} & \cellcolor{gray!6}{to overcome}\\
-au-delà & beyond\\
+un taux & a rate\\
+\cellcolor{gray!6}{confirmer,soutenir} & \cellcolor{gray!6}{to uphold}\\
+infondé & unfounded\\
+\cellcolor{gray!6}{un conseil} & \cellcolor{gray!6}{advice}\\
+vaincre & to overcome\\
 \addlinespace
-\cellcolor{gray!6}{enhardir} & \cellcolor{gray!6}{to embolden}\\
-des preuves & evidence\\
-\cellcolor{gray!6}{aplatir} & \cellcolor{gray!6}{to flatten}\\
-renforcer & to buttress\\
-\cellcolor{gray!6}{gagner de l'argent} & \cellcolor{gray!6}{to earn}\\
+\cellcolor{gray!6}{au-delà} & \cellcolor{gray!6}{beyond}\\
+enhardir & to embolden\\
+\cellcolor{gray!6}{des preuves} & \cellcolor{gray!6}{evidence}\\
+aplatir & to flatten\\
+\cellcolor{gray!6}{renforcer} & \cellcolor{gray!6}{to buttress}\\
 \addlinespace
-selon, d’après & according to\\
-\cellcolor{gray!6}{exposer (e...)} & \cellcolor{gray!6}{to exhibit}\\
-être fort probablement & to be likely to\\
-\cellcolor{gray!6}{soulever une question} & \cellcolor{gray!6}{to raise a question}\\
-finir par & to end up + ING\\
+gagner de l'argent & to earn\\
+\cellcolor{gray!6}{être composé de} & \cellcolor{gray!6}{to be made up of}\\
+être agenouillé & to kneel (knelt x 2)\\
+\cellcolor{gray!6}{un pantalon} & \cellcolor{gray!6}{a pair of trousers}\\
+un vol & a theft\\
 \addlinespace
-\cellcolor{gray!6}{exposer (d...)} & \cellcolor{gray!6}{to display}\\
-une mesure, une étape & a step\\
-\cellcolor{gray!6}{à l’égard de} & \cellcolor{gray!6}{regarding}\\
-jeter un doute sur... & to cast a doubt on...\\
-\cellcolor{gray!6}{signaler} & \cellcolor{gray!6}{to flag}\\
+\cellcolor{gray!6}{le personnel} & \cellcolor{gray!6}{the staff}\\
+un atelier & a workshop\\
+\cellcolor{gray!6}{un conservateur de musée} & \cellcolor{gray!6}{a curator}\\
+un cadre & a frame\\
+\cellcolor{gray!6}{un indice} & \cellcolor{gray!6}{a clue}\\
 \addlinespace
-reconnaître & to acknowledge\\
-\cellcolor{gray!6}{courageux, hardi} & \cellcolor{gray!6}{bold}\\
-un artisan & a craftsman\\
-\cellcolor{gray!6}{un témoin} & \cellcolor{gray!6}{a witness}\\
-exact & accurate\\
-\addlinespace
-\cellcolor{gray!6}{un orteil} & \cellcolor{gray!6}{a toe}\\
-un casque & a helmet\\
-\cellcolor{gray!6}{regarder fixement} & \cellcolor{gray!6}{to stare}\\
-mériter & to deserve\\
-\cellcolor{gray!6}{contrefaire, falsifier} & \cellcolor{gray!6}{to forge}\\
-\addlinespace
-inoffensif & innocuous\\
-\cellcolor{gray!6}{un mélange} & \cellcolor{gray!6}{a blend}\\
-divertir, distraire & to entertain\\
-\cellcolor{gray!6}{intéressé, cupide} & \cellcolor{gray!6}{money-grubbing}\\
-riche, aisé & wealthy\\
-\addlinespace
-\cellcolor{gray!6}{une série} & \cellcolor{gray!6}{a series}\\
-dévoiler, révéler & to expose\\
-\cellcolor{gray!6}{inattendu} & \cellcolor{gray!6}{unexpected}\\
-gagner de l'argent & to earn money\\
-\cellcolor{gray!6}{duper, abuser} & \cellcolor{gray!6}{to fool}\\
-\addlinespace
-une veuve & a widow\\
-\cellcolor{gray!6}{authentique} & \cellcolor{gray!6}{genuine}\\
-à la fin, finalement & eventually\\
-\cellcolor{gray!6}{une arnaque} & \cellcolor{gray!6}{a scam}\\
-servir une peine de prison & to do the time\\
-\addlinespace
-\cellcolor{gray!6}{médicolégal} & \cellcolor{gray!6}{forensic}\\
-un marchand d'art & an art dealer\\
-\cellcolor{gray!6}{tristement célèbre} & \cellcolor{gray!6}{infamous}\\
-une vente aux enchères & an auction\\
-\cellcolor{gray!6}{reconnu coupable} & \cellcolor{gray!6}{convicted}\\
-\addlinespace
-récolter (un profit) & to net\\
+une exposition & an exhibition\\
+\cellcolor{gray!6}{exposer} & \cellcolor{gray!6}{to display}\\
+remarquer & to notice\\
+\cellcolor{gray!6}{perdu} & \cellcolor{gray!6}{unaccounted for}\\
 \bottomrule
 \end{longtable}
 
@@ -313,6 +328,9 @@ Il est impossible que Rubens ait peint ce tableau. & Rubens can't have painted t
 \cellcolor{gray!6}{Les scientifiques ont réalisé des expériences sur ce tableau.} & \cellcolor{gray!6}{Scientists have carried out experiments on this painting.}\\
 \addlinespace
 J'ai lu de nombreuses fois cet incroyable article. & I have read this incredible article many times.\\
+\cellcolor{gray!6}{Ce tableau est exposé à la National Gallery depuis 40 ans.} & \cellcolor{gray!6}{This painting has been on display for 40 years.}\\
+L'expérience esthétique dépend-elle de notre connaissance de l'artiste? & Does our aesthetic experience depend on our knowledge of the artist?\\
+\cellcolor{gray!6}{Les conservateurs de musée devraient dire la vérité, et n'exposer que d'authentiques œuvres d'art.} & \cellcolor{gray!6}{Curators should tell the truth and only display genuine works of art.}\\
 \bottomrule
 \end{longtable}
 
@@ -321,91 +339,85 @@ J'ai lu de nombreuses fois cet incroyable article. & I have read this incredible
 ##  Prononciation 
 
 
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{steady}\\
-assume\\
-\cellcolor{gray!6}{myth}\\
-practice\\
-\cellcolor{gray!6}{graduate}\\
+\cellcolor{gray!6}{steady} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sted.i}/}\\
+assume & /01/ & /\textipa{@."sju:m}/\\
+\cellcolor{gray!6}{myth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{mIT}/}\\
+practice & /10/ & /\textipa{"pr\ae kt.Is}/\\
+\cellcolor{gray!6}{graduate} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"gr\ae dZ.u.@t}/}\\
 \addlinespace
-novel\\
-\cellcolor{gray!6}{tantamount}\\
-evil\\
-\cellcolor{gray!6}{smug}\\
-dawn\\
+novel & /10/ & /\textipa{"n6v.@l}/\\
+\cellcolor{gray!6}{tantamount} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"t\ae nt.@.maUnt}/}\\
+evil & /10/ & /\textipa{"i:v.@l}/\\
+\cellcolor{gray!6}{smug} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{sm2g}/}\\
+dawn & /1/ & /\textipa{dO:n}/\\
 \addlinespace
-\cellcolor{gray!6}{safety}\\
-both\\
-\cellcolor{gray!6}{hierarchy}\\
-company\\
-\cellcolor{gray!6}{vaccine}\\
+\cellcolor{gray!6}{safety} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"seIf.ti}/}\\
+both & /1/ & /\textipa{b@UT}/\\
+\cellcolor{gray!6}{hierarchy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"haI@r.A:k.i}/}\\
+company & /100/ & /\textipa{"k2mp.@n.i}/\\
+\cellcolor{gray!6}{vaccine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"v\ae ks.i:n}/}\\
 \addlinespace
-wealthy\\
-\cellcolor{gray!6}{average}\\
-remove\\
-\cellcolor{gray!6}{vouchsafe}\\
-culture\\
+wealthy & /10/ & /\textipa{"welT.i}/\\
+\cellcolor{gray!6}{average} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"\ae v.@r.IdZ}/}\\
+remove & /01/ & /\textipa{ri."mu:v}/\\
+\cellcolor{gray!6}{vouchsafe} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{vaUtS."seIf}/}\\
+culture & /10/ & /\textipa{"k2ltS.@}/\\
 \addlinespace
-\cellcolor{gray!6}{hardware}\\
-copy\\
-\cellcolor{gray!6}{however}\\
-rely\\
-\cellcolor{gray!6}{range}\\
+\cellcolor{gray!6}{hardware} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"hA:d.we@}/}\\
+copy & /10/ & /\textipa{"k6p.i}/\\
+\cellcolor{gray!6}{however} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{haU."ev.@}/}\\
+rely & /01/ & /\textipa{ri."laI}/\\
+\cellcolor{gray!6}{range} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{reIndZ}/}\\
 \addlinespace
-furniture\\
-\cellcolor{gray!6}{study}\\
-purchase\\
-\cellcolor{gray!6}{highlight}\\
-commission\\
+furniture & /100/ & /\textipa{"f3:n.ItS.@}/\\
+\cellcolor{gray!6}{study} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2d.i}/}\\
+purchase & /10/ & /\textipa{"p3:tS.@s}/\\
+\cellcolor{gray!6}{highlight} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"haI.laIt}/}\\
+commission & /010/ & /\textipa{k@."mIS.@n}/\\
 \addlinespace
-\cellcolor{gray!6}{enable}\\
-stroke\\
-\cellcolor{gray!6}{fake}\\
-curator\\
-\cellcolor{gray!6}{argue}\\
+\cellcolor{gray!6}{enable} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{In."eIb.@l}/}\\
+stroke & /1/ & /\textipa{str@Uk}/\\
+\cellcolor{gray!6}{fake} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{feIk}/}\\
+curator & /010/ & /\textipa{kju@."reIt.@}/\\
+\cellcolor{gray!6}{argue} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"A:g.ju:}/}\\
 \addlinespace
-mayor\\
-\cellcolor{gray!6}{research}\\
-innocuous\\
-\cellcolor{gray!6}{bold}\\
-forge\\
+mayor & /1/ & /\textipa{me@}/\\
+\cellcolor{gray!6}{research} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."s3:tS}/}\\
+innocuous & /0100/ & /\textipa{I."n6k.ju.@s}/\\
+\cellcolor{gray!6}{bold} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{b@Uld}/}\\
+forge & /1/ & /\textipa{fO:dZ}/\\
 \addlinespace
-\cellcolor{gray!6}{series}\\
-laboratory\\
-\cellcolor{gray!6}{career}\\
-figure\\
-\cellcolor{gray!6}{almost}\\
+\cellcolor{gray!6}{series} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sI@r.i:z}/}\\
+laboratory & /01000/ & /\textipa{l@."b6r.@t.@r.i}/\\
+\cellcolor{gray!6}{career} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@."rI@}/}\\
+figure & /10/ & /\textipa{"fIg.@}/\\
+\cellcolor{gray!6}{almost} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"O:l.m@Ust}/}\\
 \addlinespace
-portrait\\
-\cellcolor{gray!6}{through}\\
-genuine\\
-\cellcolor{gray!6}{widow}\\
-eventually\\
+portrait & /10/ & /\textipa{"pO:tr.@t}/\\
+\cellcolor{gray!6}{through} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Tru:}/}\\
+genuine & /100/ & /\textipa{"dZen.ju.In}/\\
+\cellcolor{gray!6}{widow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"wId.@U}/}\\
+eventually & /01000/ & /\textipa{I."ventS.u.@l.i}/\\
 \addlinespace
-\cellcolor{gray!6}{infamous}\\
-vintage\\
-\cellcolor{gray!6}{museum}\\
-auction\\
-\cellcolor{gray!6}{forensic}\\
+\cellcolor{gray!6}{infamous} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"In.f@m.@s}/}\\
+vintage & /10/ & /\textipa{"vInt.IdZ}/\\
+\cellcolor{gray!6}{museum} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{mju."zi:.@m}/}\\
+auction & /10/ & /\textipa{"O:k.S@n}/\\
+\cellcolor{gray!6}{forensic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{f@."rens.Ik}/}\\
 \addlinespace
-acknowledge\\
-\cellcolor{gray!6}{toe}\\
-accurate\\
-\cellcolor{gray!6}{raise}\\
-likely\\
+acknowledge & /010/ & /\textipa{@k."n6l.IdZ}/\\
+\cellcolor{gray!6}{toe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{t@U}/}\\
+accurate & /100/ & /\textipa{"\ae k.j@r.@t}/\\
+\cellcolor{gray!6}{raise} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{reIz}/}\\
+likely & /10/ & /\textipa{"laIk.li}/\\
 \addlinespace
-\cellcolor{gray!6}{truth}\\
+\cellcolor{gray!6}{truth} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tru:T}/}\\
 \bottomrule
-\end{longtable} 
-
----
-
-NULL
+\end{longtable}
 
 
 

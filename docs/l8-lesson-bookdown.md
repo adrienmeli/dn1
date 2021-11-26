@@ -3,9 +3,9 @@
 
 
 
-## Admin
+## Evaluation
 
-* Test de 2h, date à déterminer.
+* Test de 2h le **3 décembre**.
 
   - Compréhension écrite
   - Vocabulaire
